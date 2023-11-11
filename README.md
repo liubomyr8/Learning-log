@@ -12,7 +12,7 @@ The project is built using the Django framework for backend development, and it 
 * [SQLite](https://www.sqlite.org/) - The database management system.
 * [Bootstrap](https://getbootstrap.com/) - The CSS framework for front-end design.
 
-## Getting Started**
+## Getting Started
 
 To get a local copy of this project up and running, follow these steps:
 
