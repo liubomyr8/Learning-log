@@ -1,6 +1,6 @@
 # Learning Log
 
-**## About The Project**
+## About The Project**
 
 Learning Log is a web application that allows users to create, manage, and organize their learning topics, entries, and comments. Users can create both private and public topics, with private topics visible only to the owner, and public topics accessible to all users. Users can add entries to public topics and have the ability to edit them. Additionally, users can leave comments on each entry to facilitate discussion and collaboration.
 
@@ -12,7 +12,7 @@ The project is built using the Django framework for backend development, and it 
 * [SQLite](https://www.sqlite.org/) - The database management system.
 * [Bootstrap](https://getbootstrap.com/) - The CSS framework for front-end design.
 
-**## Getting Started**
+## Getting Started**
 
 To get a local copy of this project up and running, follow these steps:
 
