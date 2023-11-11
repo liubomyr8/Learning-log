@@ -56,5 +56,7 @@ To get a local copy of this project up and running, follow these steps:
 
 ## Contact
 If you have any questions or need further assistance, feel free to contact the project maintainer:
+
 Your Name - liunomyr.nych@gmail.com
+
 Project Link: https://github.com/liubomyr8/learning-log
