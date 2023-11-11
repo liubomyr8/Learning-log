@@ -53,7 +53,7 @@ Open an entry where you want to leave a comment.
 Scroll to the bottom of the entry.
 Enter your comment in the provided field and click "Submit."
 
-**## Contact**
+## Contact
 If you have any questions or need further assistance, feel free to contact the project maintainer:
 Your Name - liunomyr.nych@gmail.com
 Project Link: https://github.com/liubomyr8/learning-log
