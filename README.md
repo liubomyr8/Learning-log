@@ -34,7 +34,7 @@ pip install -r requirements.txt
 python manage.py runserver
 Open your web browser and access the application at http://localhost:8000/.
 
-**## Usage**
+Usage
 1. **Creating a Learning Topic**
 Log in to your account or register if you are a new user.
 Click on "New Topic" to create a new learning topic.
