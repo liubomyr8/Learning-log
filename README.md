@@ -18,32 +18,21 @@ To get a local copy of this project up and running, follow these steps:
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/liubomyr8/learning-log.git
-
-   Navigate to the project directory:
+2. **Navigate to the project directory:**
+   ```sh
    cd learning-log
-   Create and activate a virtual environment (recommended):
+3. **Create and activate a virtual environment (recommended):**
+   ```sh
    python -m venv venv
    source venv/bin/activate
-   Install the project dependencies:
+4. **Install the project dependencies:**
+   ```sh
    pip install -r requirements.txt
    Run the development server:
    python manage.py runserver
-   Open your web browser and access the application at http://localhost:8000/.
-   cd learning-log
-   Create and activate a virtual environment (recommended):
-   
-   python -m venv venv
-   source venv/bin/activate
-   Install the project dependencies:
-   
-   pip install -r requirements.txt
-   Run the development server:
-   
-   python manage.py runserver
-   Open your web browser and access the application at http://localhost:8000/.n your web browser and access the application at http://localhost:8000/.
+5. **Open your web browser and access the application at http://localhost:8000/.**
    
 ## Usage
-
 1. **Creating a Learning Topic**
 Log in to your account or register if you are a new user.
 Click on "New Topic" to create a new learning topic.
