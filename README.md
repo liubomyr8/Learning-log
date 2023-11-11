@@ -6,7 +6,7 @@ Learning Log is a web application that allows users to create, manage, and organ
 
 The project is built using the Django framework for backend development, and it utilizes Django's built-in authentication system. The database is managed with SQLite. For the front-end design and styling, Bootstrap is employed to create a clean and user-friendly interface.
 **
-## Built With**
+## Built With
 
 * [Django](https://www.djangoproject.com/) - The web framework used for backend development.
 * [SQLite](https://www.sqlite.org/) - The database management system.
