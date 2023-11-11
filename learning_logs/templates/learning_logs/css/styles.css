@@ -1,0 +1,7 @@
+
+  @font-face {
+    font-family: 'Grifter Bold';
+    src:  url('../fonts/GRIFTER Bold.woff') format('woff'),
+    url('../fonts/GRIFTER Bold.ttf') format('ttf'),
+    url('../fonts/GRIFTER Bold.otf') format('otf');
+  }
